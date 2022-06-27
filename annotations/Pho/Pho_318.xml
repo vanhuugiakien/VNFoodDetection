@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pho</folder>
+	<filename>Pho_318.jpg</filename>
+	<path>D:\VanHuuGiaKien\Python\FoodDetection\images\Pho\Pho_318.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pho</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>69</ymin>
+			<xmax>445</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

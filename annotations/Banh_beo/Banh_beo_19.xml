@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh beo</folder>
+	<filename>Banh_beo_19.jpg</filename>
+	<path>D:\VanHuuGiaKien\Python\FoodDetection\images\Banh_beo\Banh_beo_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_beo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>58</ymin>
+			<xmax>1582</xmax>
+			<ymax>1146</ymax>
+		</bndbox>
+	</object>
+</annotation>
