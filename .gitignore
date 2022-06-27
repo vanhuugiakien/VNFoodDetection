@@ -1,0 +1,7 @@
+/data
+/images
+/exported-models
+/models
+/pre-trained-models
+.ipynb_checkpoints
+*.ipynb
