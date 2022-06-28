@@ -1,13 +1,13 @@
 <annotation>
 	<folder>Banh_chung</folder>
-	<filename>Banh_chung_182.jpg</filename>
-	<path>D:\VNFoodDetection\images\Banh_chung\Banh_chung_182.jpg</path>
+	<filename>Banh_chung_303.jpg</filename>
+	<path>D:\VNFoodDetection\images\Banh_chung\Banh_chung_303.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1080</width>
-		<height>1350</height>
+		<width>450</width>
+		<height>450</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -18,21 +18,21 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>41</xmin>
-			<ymin>465</ymin>
-			<xmax>925</xmax>
-			<ymax>865</ymax>
+			<ymin>100</ymin>
+			<xmax>192</xmax>
+			<ymax>253</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Do_an_kem</name>
+		<name>NhanBanh_chung</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>301</xmin>
-			<ymin>824</ymin>
-			<xmax>902</xmax>
-			<ymax>1128</ymax>
+			<xmin>253</xmin>
+			<ymin>136</ymin>
+			<xmax>386</xmax>
+			<ymax>322</ymax>
 		</bndbox>
 	</object>
 </annotation>
