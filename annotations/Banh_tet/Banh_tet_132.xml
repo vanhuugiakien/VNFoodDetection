@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Banh_tet_nep_cam_dau_xanh</name>
+		<name>Banh_tet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Banh_tet_nep_cam_dau_xanh</name>
+		<name>Banh_tet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -42,8 +42,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>234</xmin>
-			<ymin>85</ymin>
-			<xmax>387</xmax>
+			<ymin>122</ymin>
+			<xmax>393</xmax>
 			<ymax>259</ymax>
 		</bndbox>
 	</object>
