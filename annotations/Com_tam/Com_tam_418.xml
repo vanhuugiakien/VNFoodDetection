@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Com_tam</folder>
+	<filename>Com_tam_418.jpg</filename>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emg\VNFoodDetection\images\Com_tam\Com_tam_418.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Com_suon_cha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>81</ymin>
+			<xmax>622</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>
