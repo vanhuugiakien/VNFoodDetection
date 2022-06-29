@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Canh_chua</folder>
+	<filename>Canh_chua_148.jpg</filename>
+	<path>D:\hoc tap\chuyen nganh\emerging technologies\finall\VNFoodDetection\images\Canh_chua\Canh_chua_148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>772</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Rau_muong_xao_toi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>60</ymin>
+			<xmax>730</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>

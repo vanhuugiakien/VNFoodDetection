@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Canh_chua</folder>
+	<filename>Canh_chua_312.jpg</filename>
+	<path>D:\hoc tap\chuyen nganh\emerging technologies\finall\VNFoodDetection\images\Canh_chua\Canh_chua_312.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Canh_chua</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>27</ymin>
+			<xmax>494</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>
