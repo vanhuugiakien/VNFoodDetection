@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_pia</folder>
+	<filename>Banh_pia_194.jpg</filename>
+	<path>D:\Repos\VNFoodDetection\images\Banh_pia\Banh_pia_194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1318</width>
+		<height>1617</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_pia</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>285</ymin>
+			<xmax>1318</xmax>
+			<ymax>1532</ymax>
+		</bndbox>
+	</object>
+</annotation>

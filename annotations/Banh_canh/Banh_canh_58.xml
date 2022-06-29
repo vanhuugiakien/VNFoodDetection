@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_canh</folder>
+	<filename>Banh_canh_58.jpg</filename>
+	<path>D:\VNFoodDetection\images\Banh_canh\Banh_canh_58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_canh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>43</ymin>
+			<xmax>1072</xmax>
+			<ymax>1070</ymax>
+		</bndbox>
+	</object>
+</annotation>
