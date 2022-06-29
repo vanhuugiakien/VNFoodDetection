@@ -23,4 +23,16 @@
 			<ymax>709</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>Ca_kho_to</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>69</ymin>
+			<xmax>983</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
 </annotation>

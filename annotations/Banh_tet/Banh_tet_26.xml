@@ -12,14 +12,14 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Banh_tet_nep_cam_dau_xanh</name>
+		<name>Banh_tet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>117</xmin>
-			<ymin>57</ymin>
-			<xmax>909</xmax>
+			<ymin>13</ymin>
+			<xmax>923</xmax>
 			<ymax>456</ymax>
 		</bndbox>
 	</object>

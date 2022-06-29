@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_tet</folder>
+	<filename>Banh_tet_434.jpg</filename>
+	<path>D:\Repos\DemoHTML\VNFoodDetection\images\Banh_tet\Banh_tet_434.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_tet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>410</ymin>
+			<xmax>666</xmax>
+			<ymax>918</ymax>
+		</bndbox>
+	</object>
+</annotation>
