@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Com_tam</folder>
+	<filename>Com_tam_235.jpg</filename>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emg\VNFoodDetection\images\Com_tam\Com_tam_235.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Com_suon_bi_cha</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>60</ymin>
+			<xmax>730</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

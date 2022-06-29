@@ -5,3 +5,4 @@
 /pre-trained-models
 .ipynb_checkpoints
 *.ipynb
+.settings.pkl
