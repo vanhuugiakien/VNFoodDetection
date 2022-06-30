@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mi_quang</folder>
+	<filename>Mi_quang_290.jpg</filename>
+	<path>D:\N3CN22\CDCN\VNFoodDetection\images\Mi_quang\Mi_quang_290.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mi_quang</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>46</ymin>
+			<xmax>582</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
