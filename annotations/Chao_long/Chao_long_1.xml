@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Chao_long</folder>
 	<filename>Chao_long_1.jpg</filename>
-	<path>C:\Users\ASUS\OneDrive\Máy tính\Emg\VNFoodDetection\images\Chao_long\Chao_long_1.jpg</path>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emer\VNFoodDetection\images\Chao_long\Chao_long_1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>69</xmin>
-			<ymin>118</ymin>
-			<xmax>499</xmax>
-			<ymax>393</ymax>
+			<xmin>22</xmin>
+			<ymin>88</ymin>
+			<xmax>530</xmax>
+			<ymax>434</ymax>
 		</bndbox>
 	</object>
 </annotation>

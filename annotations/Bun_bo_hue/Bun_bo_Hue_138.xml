@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bun_bo_Hue</folder>
+	<filename>Bun_bo_Hue_138.jpg</filename>
+	<path>D:\VNFoodDetection\images\Bun_bo_Hue\Bun_bo_Hue_138.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>886</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bun_bo_hue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>25</ymin>
+			<xmax>1261</xmax>
+			<ymax>863</ymax>
+		</bndbox>
+	</object>
+</annotation>
