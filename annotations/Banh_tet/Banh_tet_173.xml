@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_tet</folder>
+	<filename>Banh_tet_173.jpg</filename>
+	<path>D:\Repos\DemoHTML\VNFoodDetection\images\Banh_tet\Banh_tet_173.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_tet_dau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>75</ymin>
+			<xmax>272</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

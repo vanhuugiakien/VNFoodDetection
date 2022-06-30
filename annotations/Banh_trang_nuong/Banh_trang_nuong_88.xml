@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_trang_nuong</folder>
+	<filename>Banh_trang_nuong_88.jpg</filename>
+	<path>D:\VanHuuGiaKien\Python\FoodDetection\images\Banh_trang_nuong\Banh_trang_nuong_88.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_trang_nuong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>34</ymin>
+			<xmax>446</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

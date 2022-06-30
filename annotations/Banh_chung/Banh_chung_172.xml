@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_chung</folder>
+	<filename>Banh_chung_172.jpg</filename>
+	<path>D:\VNFoodDetection\images\Banh_chung\Banh_chung_172.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>810</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NhanBanh_chung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>148</xmin>
+			<ymin>101</ymin>
+			<xmax>939</xmax>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+</annotation>
