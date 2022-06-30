@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bun_dau_mam_tom</folder>
+	<filename>Bun_dau_mam_tom_290.jpg</filename>
+	<path>D:\VNFoodDetection\images\Bun_dau_mam_tom\Bun_dau_mam_tom_290.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1255</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bun_dau_mam_tom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>55</ymin>
+			<xmax>1025</xmax>
+			<ymax>1227</ymax>
+		</bndbox>
+	</object>
+</annotation>
