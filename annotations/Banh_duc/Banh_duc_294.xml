@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<annotation>
 	<folder>Banh_duc</folder>
 	<filename>Banh_duc_294.jpg</filename>
 	<path>D:\hoc tap\chuyen nganh\emerging technologies\finall\VNFoodDetection\images\Banh_duc\Banh_duc_294.jpg</path>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>149</xmin>
+			<xmin>89</xmin>
 			<ymin>218</ymin>
-			<xmax>450</xmax>
-			<ymax>454</ymax>
+			<xmax>648</xmax>
+			<ymax>488</ymax>
 		</bndbox>
 	</object>
 </annotation>

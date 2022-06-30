@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Banh_tet_dau</name>
+		<name>Banh_tet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -29,10 +29,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>2</ymin>
-			<xmax>135</xmax>
-			<ymax>47</ymax>
+			<xmin>2</xmin>
+			<ymin>1</ymin>
+			<xmax>136</xmax>
+			<ymax>46</ymax>
 		</bndbox>
 	</object>
 	<object>

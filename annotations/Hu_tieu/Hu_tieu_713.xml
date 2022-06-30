@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hu_tieu</folder>
+	<filename>Hu_tieu_713.jpg</filename>
+	<path>D:\N3CN22\CDCN\VNFoodDetection\images\Hu_tieu\Hu_tieu_713.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nuoc_leo_xuong</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>154</ymin>
+			<xmax>800</xmax>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+</annotation>
