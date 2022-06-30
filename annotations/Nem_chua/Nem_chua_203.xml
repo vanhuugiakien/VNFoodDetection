@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nem_chua</folder>
+	<filename>Nem_chua_203.jpg</filename>
+	<path>D:\N3CN22\CDCN\VNFoodDetection\images\Nem_chua\Nem_chua_203.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>710</width>
+		<height>460</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nem_nuong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>150</ymin>
+			<xmax>440</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>
