@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_bot_loc</folder>
+	<filename>Banh_bot_loc_406.jpg</filename>
+	<path>D:\Emerging Tech\Banh_bot_loc\Banh_bot_loc_406.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>751</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_bot_loc</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>130</ymin>
+			<xmax>624</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>
