@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_xeo</folder>
+	<filename>Banh_xeo_358.jpg</filename>
+	<path>D:\VNFoodDetection\images\Banh_xeo\Banh_xeo_358.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1688</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_xeo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1677</xmin>
+			<ymin>268</ymin>
+			<xmax>2871</xmax>
+			<ymax>1608</ymax>
+		</bndbox>
+	</object>
+</annotation>
