@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Com_tam</folder>
 	<filename>Com_tam_164.jpg</filename>
-	<path>C:\Users\ASUS\OneDrive\Máy tính\Emg\VNFoodDetection\images\Com_tam\Com_tam_164.jpg</path>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emer\VNFoodDetection\images\Com_tam\Com_tam_164.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,18 +33,6 @@
 			<ymin>117</ymin>
 			<xmax>254</xmax>
 			<ymax>428</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Muong_nia</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>156</xmin>
-			<ymin>503</ymin>
-			<xmax>570</xmax>
-			<ymax>1144</ymax>
 		</bndbox>
 	</object>
 </annotation>

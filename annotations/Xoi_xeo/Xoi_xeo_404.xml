@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Xoi_xeo</folder>
 	<filename>Xoi_xeo_404.jpg</filename>
-	<path>C:\Users\ASUS\OneDrive\Máy tính\Emg\VNFoodDetection\images\Xoi_xeo\Xoi_xeo_404.jpg</path>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emer\VNFoodDetection\images\Xoi_xeo\Xoi_xeo_404.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Xoi_xeo_hanh_phi</name>
+		<name>Xoi_xeo</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

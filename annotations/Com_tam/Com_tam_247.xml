@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Com_tam</folder>
 	<filename>Com_tam_247.jpg</filename>
-	<path>C:\Users\ASUS\OneDrive\Máy tính\Emg\VNFoodDetection\images\Com_tam\Com_tam_247.jpg</path>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emer\VNFoodDetection\images\Com_tam\Com_tam_247.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>17</xmin>
 			<ymin>12</ymin>
-			<xmax>479</xmax>
-			<ymax>289</ymax>
+			<xmax>530</xmax>
+			<ymax>314</ymax>
 		</bndbox>
 	</object>
 </annotation>

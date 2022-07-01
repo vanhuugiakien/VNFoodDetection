@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Com_tam</folder>
 	<filename>Com_tam_166.jpg</filename>
-	<path>C:\Users\ASUS\OneDrive\Máy tính\Emg\VNFoodDetection\images\Com_tam\Com_tam_166.jpg</path>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emer\VNFoodDetection\images\Com_tam\Com_tam_166.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,18 +24,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Muong_nia</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>475</xmin>
-			<ymin>187</ymin>
-			<xmax>592</xmax>
-			<ymax>366</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>Com_suon_bi</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
@@ -45,30 +33,6 @@
 			<ymin>134</ymin>
 			<xmax>450</xmax>
 			<ymax>352</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Do_chua</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>24</xmin>
-			<ymin>219</ymin>
-			<xmax>139</xmax>
-			<ymax>380</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Ca_rot</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>35</xmin>
-			<ymin>74</ymin>
-			<xmax>169</xmax>
-			<ymax>202</ymax>
 		</bndbox>
 	</object>
 </annotation>
