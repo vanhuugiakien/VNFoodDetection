@@ -1,13 +1,13 @@
 <annotation verified="yes">
 	<folder>Banh_bot_loc</folder>
-	<filename>Banh_bot_loc_253.jpg</filename>
-	<path>D:\Emerging Tech\Banh_bot_loc\Banh_bot_loc_253.jpg</path>
+	<filename>Banh_bot_loc_591.jpg</filename>
+	<path>D:\Emerging Tech\Banh_bot_loc\Banh_bot_loc_591.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>640</width>
-		<height>400</height>
+		<width>1080</width>
+		<height>1350</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>97</xmin>
-			<ymin>200</ymin>
-			<xmax>348</xmax>
-			<ymax>394</ymax>
+			<xmin>89</xmin>
+			<ymin>561</ymin>
+			<xmax>419</xmax>
+			<ymax>706</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>372</xmin>
-			<ymin>158</ymin>
-			<xmax>582</xmax>
-			<ymax>335</ymax>
+			<xmin>270</xmin>
+			<ymin>664</ymin>
+			<xmax>766</xmax>
+			<ymax>1084</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Banh_bot_loc</name>
+		<name>Nuoc_tuong</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>185</xmin>
-			<ymin>19</ymin>
-			<xmax>393</xmax>
-			<ymax>183</ymax>
+			<xmin>156</xmin>
+			<ymin>671</ymin>
+			<xmax>404</xmax>
+			<ymax>770</ymax>
 		</bndbox>
 	</object>
 </annotation>
