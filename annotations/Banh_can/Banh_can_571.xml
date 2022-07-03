@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Banh_can</folder>
+	<filename>Banh_can_571.jpg</filename>
+	<path>D:\Emerging Tech\Banh_can\Banh_can_571.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nuoc_mam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>173</xmin>
+			<ymin>271</ymin>
+			<xmax>447</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Banh_can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>465</ymin>
+			<xmax>710</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

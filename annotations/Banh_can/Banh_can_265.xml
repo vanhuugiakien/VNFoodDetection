@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_can</folder>
+	<filename>Banh_can_265.jpg</filename>
+	<path>D:\Emerging Tech\Banh_can\Banh_can_265.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>236</ymin>
+			<xmax>1378</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+</annotation>

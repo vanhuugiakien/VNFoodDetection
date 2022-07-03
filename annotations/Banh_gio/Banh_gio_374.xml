@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_gio</folder>
+	<filename>Banh_gio_374.jpg</filename>
+	<path>D:\Emerging Tech\Banh_gio\Banh_gio_374.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>501</width>
+		<height>501</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_gio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>48</ymin>
+			<xmax>447</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>
