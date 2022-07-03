@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bun_rieu</folder>
+	<filename>Bun_rieu_122.jpg</filename>
+	<path>D:\VNFoodDetection\IMAGES\Bun_rieu\Bun_rieu_122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>523</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bun_rieu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>78</ymin>
+			<xmax>883</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bun_thit_nuong</folder>
+	<filename>Bun_thit_nuong_434.jpg</filename>
+	<path>D:\VNFoodDetection\IMAGES\Bun_thit_nuong\Bun_thit_nuong_434.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>364</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bun_thit_nuong</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>143</ymin>
+			<xmax>438</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

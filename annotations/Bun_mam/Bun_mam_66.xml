@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Bun_mam</folder>
+	<filename>Bun_mam_66.jpg</filename>
+	<path>D:\VNFoodDetection\IMAGES\Bun_mam\Bun_mam_66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Bun_mam</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>81</ymin>
+			<xmax>598</xmax>
+			<ymax>379</ymax>
+		</bndbox>
+	</object>
+</annotation>
