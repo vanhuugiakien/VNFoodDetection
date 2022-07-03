@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Ca_kho_to</folder>
+	<filename>Ca_kho_to_540.jpg</filename>
+	<path>D:\Repos\DemoHTML\VNFoodDetection\images\Ca_kho_to\Ca_kho_to_540.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2362</width>
+		<height>1575</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ca_kho_to</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>284</xmin>
+			<ymin>444</ymin>
+			<xmax>2205</xmax>
+			<ymax>1575</ymax>
+		</bndbox>
+	</object>
+</annotation>

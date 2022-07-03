@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_mi</folder>
+	<filename>Banh_mi_147.jpg</filename>
+	<path>D:\Repos\VNFoodDetection\images\Banh_mi\Banh_mi_147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_mi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>81</ymin>
+			<xmax>768</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+</annotation>

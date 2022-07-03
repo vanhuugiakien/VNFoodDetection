@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_khot</folder>
+	<filename>Banh_khot_461.jpg</filename>
+	<path>D:\Repos\VNFoodDetection\images\Banh_khot\Banh_khot_461.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>180</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_khot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>5</ymin>
+			<xmax>176</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

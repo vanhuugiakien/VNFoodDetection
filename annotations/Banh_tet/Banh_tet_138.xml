@@ -36,7 +36,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>Banh_tet_chuoi</name>
+		<name>Banh_tet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

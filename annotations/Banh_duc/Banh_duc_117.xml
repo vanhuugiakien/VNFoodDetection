@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Banh_duc</folder>
+	<filename>Banh_duc_117.jpg</filename>
+	<path>D:\hoc tap\chuyen nganh\emerging technologies\finall\VNFoodDetection\images\Banh_duc\Banh_duc_117.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_duc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>282</ymin>
+			<xmax>856</xmax>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Nuoc_man</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>9</ymin>
+			<xmax>640</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Goi_cuon</folder>
+	<filename>Goi_cuon_146.jpg</filename>
+	<path>D:\Repos\DemoHTML\VNFoodDetection\images\Goi_cuon\Goi_cuon_146.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goi_cuon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>169</ymin>
+			<xmax>1929</xmax>
+			<ymax>1651</ymax>
+		</bndbox>
+	</object>
+</annotation>

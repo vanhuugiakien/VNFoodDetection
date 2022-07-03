@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Com_tam</folder>
+	<filename>Com_tam_357.jpg</filename>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emer\VNFoodDetection\images\Com_tam\Com_tam_357.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>782</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Com_bi_cha</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>1</ymin>
+			<xmax>1017</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>

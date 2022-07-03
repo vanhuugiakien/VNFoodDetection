@@ -12,15 +12,63 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Banh_tet_thap_cam</name>
+		<name>Banh_tet</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>40</xmin>
+			<xmin>150</xmin>
 			<ymin>10</ymin>
-			<xmax>601</xmax>
-			<ymax>450</ymax>
+			<xmax>386</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Banh_tet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>175</ymin>
+			<xmax>226</xmax>
+			<ymax>351</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Banh_tet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>215</xmin>
+			<ymin>230</ymin>
+			<xmax>440</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Banh_tet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>142</ymin>
+			<xmax>597</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Banh_tet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>19</ymin>
+			<xmax>517</xmax>
+			<ymax>133</ymax>
 		</bndbox>
 	</object>
 </annotation>

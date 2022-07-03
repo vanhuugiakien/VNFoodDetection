@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Cao_lau</folder>
+	<filename>Cao_lau_122.jpg</filename>
+	<path>D:\hoc tap\chuyen nganh\emerging technologies\finall\VNFoodDetection\images\Cao_lau\Cao_lau_122.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cao_lau</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>118</ymin>
+			<xmax>424</xmax>
+			<ymax>336</ymax>
+		</bndbox>
+	</object>
+</annotation>

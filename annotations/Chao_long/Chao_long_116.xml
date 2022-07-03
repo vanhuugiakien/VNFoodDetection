@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Chao_long</folder>
+	<filename>Chao_long_116.jpg</filename>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emer\VNFoodDetection\images\Chao_long\Chao_long_116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>772</width>
+		<height>432</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chao_long</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>14</ymin>
+			<xmax>713</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

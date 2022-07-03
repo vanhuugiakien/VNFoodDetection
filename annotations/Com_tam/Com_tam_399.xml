@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Com_tam</folder>
+	<filename>Com_tam_399.jpg</filename>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emg\VNFoodDetection\images\Com_tam\Com_tam_399.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kim_chi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>15</ymin>
+			<xmax>138</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Com_suon_trung</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>11</ymin>
+			<xmax>579</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

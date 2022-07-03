@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Banh_duc</folder>
+	<filename>Banh_duc_660.jpg</filename>
+	<path>D:\hoc tap\chuyen nganh\emerging technologies\finall\VNFoodDetection\images\Banh_duc\Banh_duc_660.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_duc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>81</ymin>
+			<xmax>361</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -23,16 +23,4 @@
 			<ymax>693</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>Bo_luc_lac</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>726</xmin>
-			<ymin>294</ymin>
-			<xmax>1014</xmax>
-			<ymax>982</ymax>
-		</bndbox>
-	</object>
 </annotation>

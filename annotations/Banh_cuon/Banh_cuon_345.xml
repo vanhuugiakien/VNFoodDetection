@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Banh_cuon</folder>
+	<filename>Banh_cuon_345.jpg</filename>
+	<path>D:\VNFoodDetection\images\Banh_cuon\Banh_cuon_345.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Banh_cuon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>29</ymin>
+			<xmax>240</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Xoi_xeo</folder>
+	<filename>Xoi_xeo_49.jpg</filename>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\Emer\VNFoodDetection\images\Xoi_xeo\Xoi_xeo_49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>460</width>
+		<height>307</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xoi_xeo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>67</ymin>
+			<xmax>367</xmax>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Xoi_xeo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>3</ymin>
+			<xmax>452</xmax>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+</annotation>
